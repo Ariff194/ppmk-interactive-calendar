@@ -27,6 +27,7 @@ The project used React, TypeScript, SQL, and Supabase. These are project-level t
 
 ## Project Links
 
+- [View the source code on GitHub](https://github.com/foalif14/ppmkcalendarbyfantastic5)
 - [View the project on Devpost](https://devpost.com/software/ppmk-collaborative-calendar)
 
 ## Acknowledgements
